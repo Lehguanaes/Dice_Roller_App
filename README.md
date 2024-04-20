@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9c1e5&size=35&center=true&vCenter=true&width=1000&lines=Primeiro+App+com+interface+interativa!;Feito+com+kotlin;Dice+Roller.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9c1e5&size=35&center=true&vCenter=true&width=1000&lines=Primeiro+App+com+interface+interativa!;Feito+com+kotlin;Dice+Roller.)](https://git.io/typing-svg)
 
 Curso disponibilizado em https://developer.android.com/ feito com o intuito de aprender a criar um app com interface interativa em Kotlin.
 
